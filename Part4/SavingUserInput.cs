@@ -16,7 +16,7 @@ namespace Vainolo.AzureFunctionsTutorial.Part4
         public string RowKey { get; set; }
         public string Text { get; set; }
     }
-//    [StorageAccount("MyStorageAccount")]
+
     public static class SavingUserInput
     {
         [FunctionName("SavingUserInput")]
