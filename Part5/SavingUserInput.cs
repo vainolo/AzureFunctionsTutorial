@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace Vainolo.AzureFunctionsTutorial.Part4
+namespace Vainolo.AzureFunctionsTutorial.Part5
 {
     public class UserData
     {
